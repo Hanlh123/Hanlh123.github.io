@@ -672,7 +672,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: 欢迎哎哎哎
+      text: 欢迎访问我的github
       link: https://blog.csdn.net/weixin_56800842?type=blog
   card_announcement:
     enable: true
