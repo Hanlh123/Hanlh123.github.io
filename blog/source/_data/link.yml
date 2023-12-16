@@ -1,0 +1,26 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: ʚ小华
+      link: https://blog.csdn.net/weixin_56800842?type=blog
+      avatar: http://yingx-hanlh.oss-cn-beijing.aliyuncs.com/myImage/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.jpg
+      descr: 那里有天才，我是把别人喝咖啡的工夫都用在工作上的。
+    - name: Lucky薇儿
+      link: https://blog.csdn.net/weixin_50554507?type=blog
+      avatar: http://yingx-hanlh.oss-cn-beijing.aliyuncs.com/myImage/1.png
+      descr: 积极者相信只有推动自己才能推动世界，只要推动自己就能推动世界。
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
